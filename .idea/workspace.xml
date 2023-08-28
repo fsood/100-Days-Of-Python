@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="732dc271-e841-4545-bdaf-d299aa7b7230" name="Changes" comment="day 3">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/DAY 5/main (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY 5/main (2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY 1/MAIN (2).PY" beforeDir="false" afterPath="$PROJECT_DIR$/DAY 1/main (2).py" afterDir="false" />
+>>>>>>> 5216e98b41e0a3ef1432effc81e4b84dba1b99ad
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +31,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/DAY 3/main (4).py" root0="SKIP_HIGHLIGHTING" />
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/DAY 5/FizzBuzz.py" root0="SKIP_INSPECTION" />
+=======
+>>>>>>> 5216e98b41e0a3ef1432effc81e4b84dba1b99ad
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,6 +49,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+<<<<<<< HEAD
     &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Documents/100 days python&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   },
@@ -46,6 +57,10 @@
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
       &quot;Python&quot;
     ]
+=======
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Documents/100 days assignments&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+>>>>>>> 5216e98b41e0a3ef1432effc81e4b84dba1b99ad
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,6 +100,7 @@
       <option name="project" value="LOCAL" />
       <updated>1673601810287</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00005" summary="day 3">
       <created>1693245546365</created>
       <option name="number" value="00005" />
@@ -93,6 +109,9 @@
       <updated>1693245546365</updated>
     </task>
     <option name="localTasksCounter" value="6" />
+=======
+    <option name="localTasksCounter" value="5" />
+>>>>>>> 5216e98b41e0a3ef1432effc81e4b84dba1b99ad
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
